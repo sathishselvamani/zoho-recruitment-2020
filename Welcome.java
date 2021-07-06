@@ -11,7 +11,7 @@ public class Welcome {
 		String str = in.next();
 
 
-		System.out.println("Middle = "  + middle(str));
+		System.out.println(middle(str));
 		} 
 
 		public static String middle(String str)
