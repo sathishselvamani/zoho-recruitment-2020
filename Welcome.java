@@ -12,7 +12,7 @@ public class Welcome {
 
 
 		System.out.println("Middle = "  + middle(str));
-		} //end main
+		} 
 
 		public static String middle(String str)
 		{
@@ -27,5 +27,5 @@ public class Welcome {
 		    else {
 		    	return str.substring(str.length()/2);
 		    	}
-		}   // end middle
+		}  
 }
